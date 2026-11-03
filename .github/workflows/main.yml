@@ -1,0 +1,51 @@
+name: UPLC uptime
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # site checks every 10 minutes
+    - cron: "7 7 * * 1"      # weekly report, Monday ~08:07 Paris (winter time)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check or digest"
+        default: "check"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uplc-uptime
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: |
+          if [ "${{ github.event.schedule }}" = "7 7 * * 1" ]; then MODE=digest
+          else MODE="${{ github.event.inputs.mode || 'check' }}"; fi
+          python monitor.py "$MODE"
+
+      - name: Save status history
+        run: |
+          git config user.name "uplc-uptime-bot"
+          git config user.email "uplc-uptime-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Status update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --quiet && git push
