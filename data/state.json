@@ -377,7 +377,7 @@
    "status": "up"
   },
   "joknowsprobate.com": {
-   "reason": "SSL error (UNEXPECTED_EOF_WHILE_READING)",
+   "reason": "Connection error ([Errno 104] Connection reset by peer)",
    "since": "2026-11-03T15:03:27+00:00",
    "status": "down"
   },
