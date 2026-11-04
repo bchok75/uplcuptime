@@ -612,7 +612,7 @@
    "status": "up"
   },
   "probatehelp.net": {
-   "reason": "Domain does not resolve (DNS)",
+   "reason": "SSL certificate error (Hostname mismatch, certificate is not valid for 'probatehelp.net'.)",
    "since": "2026-11-03T16:30:42+00:00",
    "status": "down"
   },
