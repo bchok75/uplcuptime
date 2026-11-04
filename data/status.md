@@ -1,6 +1,6 @@
 # UPLC site status
 
-**159 up · 11 down · 1 need a look** (of 171)
+**160 up · 10 down · 1 need a look** (of 171)
 
 ## Down
 
@@ -14,7 +14,6 @@
 | probatehelpwithdeborah.com | 03 Nov 2026 17:30 | SSL certificate error (Hostname mismatch, certificate is not valid for 'probatehelpwithdeborah.com'.) |
 | probaterealestatesolutions.net | 03 Nov 2026 17:30 | Timeout after 20s |
 | progg.com | 03 Nov 2026 17:30 | Blank page |
-| propertyinprobate.com | 04 Nov 2026 06:16 | HTTP 502 |
 | sacramentoprobate.net | 03 Nov 2026 17:30 | Domain does not resolve (DNS) |
 | walkerprobatesupport.com | 03 Nov 2026 17:30 | SSL certificate error (Hostname mismatch, certificate is not valid for 'walkerprobatesupport.com'.) |
 
