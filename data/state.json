@@ -612,9 +612,9 @@
    "status": "up"
   },
   "probatehelp.net": {
-   "reason": "SSL certificate error (Hostname mismatch, certificate is not valid for 'probatehelp.net'.)",
-   "since": "2026-11-03T16:30:42+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-04T16:21:02+00:00",
+   "status": "up"
   },
   "probatehelp.realestate": {
    "reason": "OK",

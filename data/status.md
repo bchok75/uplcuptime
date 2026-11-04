@@ -1,6 +1,6 @@
 # UPLC site status
 
-**160 up · 10 down · 1 need a look** (of 171)
+**161 up · 9 down · 1 need a look** (of 171)
 
 ## Down
 
@@ -9,7 +9,6 @@
 | georgiaprobatehelp.com | 03 Nov 2026 17:30 | Timeout after 20s |
 | joknowsprobate.com | 03 Nov 2026 17:30 | SSL error (UNEXPECTED_EOF_WHILE_READING) |
 | probatebyrose.com | 03 Nov 2026 17:30 | Timeout after 20s |
-| probatehelp.net | 03 Nov 2026 17:30 | SSL certificate error (Hostname mismatch, certificate is not valid for 'probatehelp.net'.) |
 | probatehelpbykatherine.com | 03 Nov 2026 17:30 | Blank page |
 | probatehelpwithdeborah.com | 03 Nov 2026 17:30 | SSL certificate error (Hostname mismatch, certificate is not valid for 'probatehelpwithdeborah.com'.) |
 | probaterealestatesolutions.net | 03 Nov 2026 17:30 | Timeout after 20s |
