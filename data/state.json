@@ -632,9 +632,9 @@
    "status": "up"
   },
   "probatehelpbykatherine.com": {
-   "reason": "SSL certificate error (Hostname mismatch, certificate is not valid for 'probatehelpbykatherine.com'.)",
-   "since": "2026-11-03T16:30:42+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-05T17:43:06+00:00",
+   "status": "up"
   },
   "probatehelpbylinda.com": {
    "reason": "OK",
@@ -662,9 +662,9 @@
    "status": "up"
   },
   "probatehelpwithdeborah.com": {
-   "reason": "SSL certificate error (Hostname mismatch, certificate is not valid for 'probatehelpwithdeborah.com'.)",
-   "since": "2026-11-03T16:30:42+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-05T17:43:06+00:00",
+   "status": "up"
   },
   "probatehelpwithserena.com": {
    "reason": "OK",
