@@ -152,3 +152,4 @@ zenprobate.com,2026-11-03T23:55:50+00:00,2026-11-04T00:32:22+00:00,36,Timeout af
 propertyinprobate.com,2026-11-04T05:16:44+00:00,2026-11-04T08:36:31+00:00,199,HTTP 502
 probatehelp.net,2026-11-03T16:30:42+00:00,2026-11-04T16:21:02+00:00,1430,"SSL certificate error (Hostname mismatch, certificate is not valid for 'probatehelp.net'.)"
 propertyinprobate.com,2026-11-05T00:20:10+00:00,2026-11-05T01:31:46+00:00,71,HTTP 502
+propertyinprobate.com,2026-11-05T08:40:15+00:00,2026-11-05T09:37:45+00:00,57,HTTP 502
