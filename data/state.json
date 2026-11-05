@@ -997,9 +997,9 @@
    "status": "up"
   },
   "walkerprobatesupport.com": {
-   "reason": "SSL certificate error (Hostname mismatch, certificate is not valid for 'walkerprobatesupport.com'.)",
-   "since": "2026-11-03T16:30:42+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-05T18:30:05+00:00",
+   "status": "up"
   },
   "waprobate.info": {
    "reason": "OK",
