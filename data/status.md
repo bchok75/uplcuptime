@@ -1,6 +1,6 @@
 # UPLC site status
 
-**164 up · 7 down · 0 need a look** (of 171)
+**163 up · 8 down · 0 need a look** (of 171)
 
 ## Down
 
@@ -10,6 +10,7 @@
 | joknowsprobate.com | 03 Nov 2026 17:30 | SSL error (UNEXPECTED_EOF_WHILE_READING) |
 | probatebyrose.com | 03 Nov 2026 17:30 | Timeout after 20s |
 | probaterealestatesolutions.net | 03 Nov 2026 17:30 | Timeout after 20s |
-| probatewithapril.com | 05 Nov 2026 23:32 | Connection error ([Errno 104] Connection reset by peer) |
+| probatewithapril.com | 05 Nov 2026 23:32 | SSL error (UNEXPECTED_EOF_WHILE_READING) |
 | progg.com | 03 Nov 2026 17:30 | Blank page |
+| propertyinprobate.com | 06 Nov 2026 01:04 | HTTP 502 |
 | sacramentoprobate.net | 03 Nov 2026 17:30 | Domain does not resolve (DNS) |
