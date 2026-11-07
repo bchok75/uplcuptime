@@ -869,12 +869,12 @@
    "status": "up"
   },
   "progg.com": {
-   "reason": "Connection error ([Errno 104] Connection reset by peer)",
+   "reason": "Blank page",
    "since": "2026-11-03T16:30:42+00:00",
    "status": "down"
   },
   "propertyinprobate.com": {
-   "reason": "Timeout after 20s",
+   "reason": "HTTP 502",
    "since": "2026-11-07T21:02:14+00:00",
    "status": "down"
   },
