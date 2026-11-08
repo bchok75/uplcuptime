@@ -770,7 +770,7 @@
    "status": "up"
   },
   "probaterealestatesolutions.net": {
-   "reason": "Timeout after 20s",
+   "reason": "Domain does not resolve (DNS)",
    "since": "2026-11-03T16:30:42+00:00",
    "status": "down"
   },
