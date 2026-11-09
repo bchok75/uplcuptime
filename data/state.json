@@ -605,9 +605,9 @@
    "status": "up"
   },
   "probatecourtservices.com": {
-   "reason": "OK",
-   "since": "2026-11-03T16:30:42+00:00",
-   "status": "up"
+   "reason": "HTTP 502",
+   "since": "2026-11-09T08:05:49+00:00",
+   "status": "down"
   },
   "probateguyjeffrey.com": {
    "reason": "OK",
@@ -875,9 +875,9 @@
    "status": "down"
   },
   "propertyinprobate.com": {
-   "reason": "OK",
-   "since": "2026-11-09T06:43:12+00:00",
-   "status": "up"
+   "reason": "HTTP 502",
+   "since": "2026-11-09T08:05:49+00:00",
+   "status": "down"
   },
   "realtorginaspeck.com": {
    "reason": "OK",
