@@ -874,7 +874,7 @@
    "status": "down"
   },
   "propertyinprobate.com": {
-   "reason": "Timeout after 20s",
+   "reason": "HTTP 502",
    "since": "2026-11-10T20:09:57+00:00",
    "status": "down"
   },
