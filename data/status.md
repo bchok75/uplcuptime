@@ -1,6 +1,6 @@
 # UPLC site status
 
-**164 up · 7 down · 0 need a look** (of 171)
+**163 up · 8 down · 0 need a look** (of 171)
 
 ## Down
 
@@ -12,4 +12,5 @@
 | probaterealestatesolutions.net | 03 Nov 2026 17:30 | Domain does not resolve (DNS) |
 | probatewithapril.com | 05 Nov 2026 23:32 | SSL error (UNEXPECTED_EOF_WHILE_READING) |
 | progg.com | 03 Nov 2026 17:30 | Blank page |
+| propertyinprobate.com | 10 Nov 2026 15:27 | HTTP 502 |
 | sacramentoprobate.net | 03 Nov 2026 17:30 | Domain does not resolve (DNS) |
