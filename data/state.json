@@ -605,9 +605,9 @@
    "status": "up"
   },
   "probatecourtservices.com": {
-   "reason": "OK",
-   "since": "2026-11-09T09:12:58+00:00",
-   "status": "up"
+   "reason": "HTTP 502",
+   "since": "2026-11-11T07:45:13+00:00",
+   "status": "down"
   },
   "probateguyjeffrey.com": {
    "reason": "OK",
