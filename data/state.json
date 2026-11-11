@@ -380,9 +380,9 @@
    "status": "up"
   },
   "joknowsprobate.com": {
-   "reason": "SSL error (UNEXPECTED_EOF_WHILE_READING)",
-   "since": "2026-11-03T16:30:42+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-11T17:21:04+00:00",
+   "status": "up"
   },
   "joycecalcasola-probaterealtor.com": {
    "reason": "OK",
