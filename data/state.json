@@ -531,9 +531,9 @@
    "status": "up"
   },
   "probate911.com": {
-   "reason": "SSL error (TLSV1_UNRECOGNIZED_NAME)",
-   "since": "2026-11-12T03:42:14+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-12T04:42:20+00:00",
+   "status": "up"
   },
   "probateandtrust-realestate.com": {
    "reason": "OK",
