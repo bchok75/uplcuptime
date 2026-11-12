@@ -531,9 +531,9 @@
    "status": "up"
   },
   "probate911.com": {
-   "reason": "OK",
-   "since": "2026-11-04T00:32:22+00:00",
-   "status": "up"
+   "reason": "SSL error (TLSV1_UNRECOGNIZED_NAME)",
+   "since": "2026-11-12T03:42:14+00:00",
+   "status": "down"
   },
   "probateandtrust-realestate.com": {
    "reason": "OK",
@@ -876,9 +876,9 @@
    "status": "down"
   },
   "propertyinprobate.com": {
-   "reason": "OK",
-   "since": "2026-11-12T02:55:54+00:00",
-   "status": "up"
+   "reason": "HTTP 502",
+   "since": "2026-11-12T03:42:14+00:00",
+   "status": "down"
   },
   "realtorginaspeck.com": {
    "reason": "OK",
