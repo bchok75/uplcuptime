@@ -305,9 +305,9 @@
    "status": "up"
   },
   "estaterealty.net": {
-   "reason": "OK",
-   "since": "2026-11-15T12:11:57+00:00",
-   "status": "up"
+   "reason": "Connection error ([Errno 104] Connection reset by peer)",
+   "since": "2026-11-15T22:17:50+00:00",
+   "status": "down"
   },
   "executorrealestate.com": {
    "reason": "OK",
@@ -530,9 +530,9 @@
    "status": "up"
   },
   "probate911.com": {
-   "reason": "OK",
-   "since": "2026-11-15T12:11:57+00:00",
-   "status": "up"
+   "reason": "Connection error ([Errno 104] Connection reset by peer)",
+   "since": "2026-11-15T22:17:50+00:00",
+   "status": "down"
   },
   "probateandtrust-realestate.com": {
    "reason": "OK",
