@@ -232,3 +232,5 @@ probate911.com,2026-11-15T11:30:59+00:00,2026-11-15T12:11:57+00:00,40,Connection
 propertyinprobate.com,2026-11-15T14:30:37+00:00,2026-11-15T15:54:46+00:00,84,HTTP 502
 propertyinprobate.com,2026-11-15T17:10:56+00:00,2026-11-15T17:43:30+00:00,32,HTTP 502
 propertyinprobate.com,2026-11-15T20:22:57+00:00,2026-11-15T21:04:09+00:00,41,HTTP 502
+estaterealty.net,2026-11-15T22:17:50+00:00,2026-11-15T22:54:26+00:00,36,Connection error ([Errno 104] Connection reset by peer)
+probate911.com,2026-11-15T22:17:50+00:00,2026-11-15T22:54:26+00:00,36,Connection error ([Errno 104] Connection reset by peer)

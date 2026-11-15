@@ -305,9 +305,9 @@
    "status": "up"
   },
   "estaterealty.net": {
-   "reason": "Connection error ([Errno 104] Connection reset by peer)",
-   "since": "2026-11-15T22:17:50+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-15T22:54:26+00:00",
+   "status": "up"
   },
   "executorrealestate.com": {
    "reason": "OK",
@@ -530,9 +530,9 @@
    "status": "up"
   },
   "probate911.com": {
-   "reason": "Connection error ([Errno 104] Connection reset by peer)",
-   "since": "2026-11-15T22:17:50+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-15T22:54:26+00:00",
+   "status": "up"
   },
   "probateandtrust-realestate.com": {
    "reason": "OK",
@@ -875,9 +875,9 @@
    "status": "down"
   },
   "propertyinprobate.com": {
-   "reason": "OK",
-   "since": "2026-11-15T21:04:09+00:00",
-   "status": "up"
+   "reason": "HTTP 502",
+   "since": "2026-11-15T22:54:26+00:00",
+   "status": "down"
   },
   "realtorginaspeck.com": {
    "reason": "OK",
