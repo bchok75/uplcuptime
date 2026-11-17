@@ -1,15 +1,14 @@
 # UPLC site status
 
-**164 up · 7 down · 0 need a look** (of 171)
+**165 up · 6 down · 0 need a look** (of 171)
 
 ## Down
 
 | Site | Since (Paris) | Reason |
 |---|---|---|
 | georgiaprobatehelp.com | 03 Nov 2026 17:30 | Timeout after 20s |
-| joknowsprobate.com | 11 Nov 2026 19:10 | Connection error ([Errno 104] Connection reset by peer) |
+| joknowsprobate.com | 11 Nov 2026 19:10 | SSL error (UNEXPECTED_EOF_WHILE_READING) |
 | probatebyrose.com | 03 Nov 2026 17:30 | Timeout after 20s |
-| probatecourtservices.com | 17 Nov 2026 09:03 | HTTP 502 |
 | probaterealestatesolutions.net | 03 Nov 2026 17:30 | Domain does not resolve (DNS) |
 | progg.com | 03 Nov 2026 17:30 | Blank page |
 | sacramentoprobate.net | 03 Nov 2026 17:30 | Domain does not resolve (DNS) |
