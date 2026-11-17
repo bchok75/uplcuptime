@@ -305,9 +305,9 @@
    "status": "up"
   },
   "estaterealty.net": {
-   "reason": "OK",
-   "since": "2026-11-15T22:54:26+00:00",
-   "status": "up"
+   "reason": "SSL error (TLSV1_UNRECOGNIZED_NAME)",
+   "since": "2026-11-17T18:37:36+00:00",
+   "status": "down"
   },
   "executorrealestate.com": {
    "reason": "OK",
