@@ -1,6 +1,6 @@
 # UPLC site status
 
-**164 up · 6 down · 1 need a look** (of 171)
+**165 up · 6 down · 0 need a look** (of 171)
 
 ## Down
 
@@ -12,9 +12,3 @@
 | probaterealestatesolutions.net | 03 Nov 2026 17:30 | Domain does not resolve (DNS) |
 | progg.com | 03 Nov 2026 17:30 | Blank page |
 | sacramentoprobate.net | 03 Nov 2026 17:30 | Domain does not resolve (DNS) |
-
-## Need a look
-
-| Site | Since (Paris) | Reason |
-|---|---|---|
-| propertyinprobate.com | 19 Nov 2026 13:48 | HTTP 403 (blocked or protected; may be a firewall) |
