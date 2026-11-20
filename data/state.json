@@ -876,9 +876,9 @@
    "status": "down"
   },
   "propertyinprobate.com": {
-   "reason": "HTTP 502",
-   "since": "2026-11-20T09:42:31+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-20T10:44:56+00:00",
+   "status": "up"
   },
   "realtorginaspeck.com": {
    "reason": "OK",
