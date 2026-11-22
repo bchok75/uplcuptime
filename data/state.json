@@ -305,7 +305,7 @@
    "status": "up"
   },
   "joknowsprobate.com": {
-   "reason": "Connection error ([Errno 104] Connection reset by peer)",
+   "reason": "SSL error (UNEXPECTED_EOF_WHILE_READING)",
    "since": "2026-11-11T18:10:29+00:00",
    "status": "down"
   },
@@ -800,9 +800,9 @@
    "status": "down"
   },
   "propertyinprobate.com": {
-   "reason": "HTTP 502",
-   "since": "2026-11-22T13:53:02+00:00",
-   "status": "down"
+   "reason": "OK",
+   "since": "2026-11-22T14:41:19+00:00",
+   "status": "up"
   },
   "realtorginaspeck.com": {
    "reason": "OK",
