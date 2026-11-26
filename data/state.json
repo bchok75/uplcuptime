@@ -306,9 +306,9 @@
    "status": "up"
   },
   "estaterealty.net": {
-   "reason": "OK",
-   "since": "2026-11-17T20:30:19+00:00",
-   "status": "up"
+   "reason": "Connection error ([Errno 104] Connection reset by peer)",
+   "since": "2026-11-26T06:33:02+00:00",
+   "status": "down"
   },
   "executorrealestate.com": {
    "reason": "OK",
@@ -381,7 +381,7 @@
    "status": "up"
   },
   "joknowsprobate.com": {
-   "reason": "Connection error ([Errno 104] Connection reset by peer)",
+   "reason": "SSL error (UNEXPECTED_EOF_WHILE_READING)",
    "since": "2026-11-11T18:10:29+00:00",
    "status": "down"
   },
@@ -531,9 +531,9 @@
    "status": "up"
   },
   "probate911.com": {
-   "reason": "OK",
-   "since": "2026-11-15T22:54:26+00:00",
-   "status": "up"
+   "reason": "Connection error ([Errno 104] Connection reset by peer)",
+   "since": "2026-11-26T06:33:02+00:00",
+   "status": "down"
   },
   "probateandtrust-realestate.com": {
    "reason": "OK",
@@ -661,9 +661,9 @@
    "status": "up"
   },
   "probatehelpusa.com": {
-   "reason": "OK",
-   "since": "2026-11-03T16:30:42+00:00",
-   "status": "up"
+   "reason": "SSL error (UNEXPECTED_EOF_WHILE_READING)",
+   "since": "2026-11-26T06:33:02+00:00",
+   "status": "down"
   },
   "probatehelpwithdeborah.com": {
    "reason": "OK",
