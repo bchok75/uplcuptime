@@ -375,3 +375,4 @@ propertyinprobate.com,2026-11-27T16:42:25+00:00,2026-11-27T17:40:11+00:00,57,HTT
 estaterealty.net,2026-11-27T17:40:11+00:00,2026-11-27T18:28:30+00:00,48,Connection error ([Errno 104] Connection reset by peer)
 probate911.com,2026-11-27T17:40:11+00:00,2026-11-27T18:28:30+00:00,48,Connection error ([Errno 104] Connection reset by peer)
 probatehelpusa.com,2026-11-27T17:40:11+00:00,2026-11-27T18:28:30+00:00,48,SSL error (UNEXPECTED_EOF_WHILE_READING)
+propertyinprobate.com,2026-11-27T18:28:30+00:00,2026-11-27T22:25:15+00:00,236,HTTP 502
